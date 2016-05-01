@@ -1,4 +1,6 @@
 # coal
+![Coal Pickaxe](coal-icon.png)
+
 A simple C unit test suite
 
 ### Status
